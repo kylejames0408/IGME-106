@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/arrow.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/arrow.xnb","TextureProcessor","Texture2DContent",1466,3285,0.642462
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bow.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/bow.xnb","TextureProcessor","Texture2DContent",1997,10085,0.0259062
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Buttons.spritefont","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/Buttons.xnb","FontDescriptionProcessor","SpriteFontContent",2069,70673,0.6602355
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/circle.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/circle.xnb","TextureProcessor","Texture2DContent",3444,262229,1.53787
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/File.spritefont","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/Stats.xnb","FontDescriptionProcessor","SpriteFontContent",2069,37905,0.0520698
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Heading.spritefont","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/Heading.xnb","FontDescriptionProcessor","SpriteFontContent",2069,136209,0.0610082
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/key.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/key.xnb","TextureProcessor","Texture2DContent",1112,10085,0.0239711
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/mouseCursor.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/mouseCursor.xnb","TextureProcessor","Texture2DContent",2266,40085,0.0697053
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/spell.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/spell.xnb","TextureProcessor","Texture2DContent",1029,10085,0.0269297
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/square.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/square.xnb","TextureProcessor","Texture2DContent",2321,262229,0.0811809
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/sword.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/sword.xnb","TextureProcessor","Texture2DContent",1352,10085,0.0259602
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Title.spritefont","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/Title.xnb","FontDescriptionProcessor","SpriteFontContent",2069,529425,0.0971842
+"C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/wand.png","C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bin/Windows/Content/wand.xnb","TextureProcessor","Texture2DContent",1629,10085,0.0279264

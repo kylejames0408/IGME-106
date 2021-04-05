@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMAnimationStarter", "FSMAnimationStarter.csproj", "{7774D709-F991-409D-A722-5FC12106FF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7774D709-F991-409D-A722-5FC12106FF85}.Debug|x86.ActiveCfg = Debug|x86
+		{7774D709-F991-409D-A722-5FC12106FF85}.Debug|x86.Build.0 = Debug|x86
+		{7774D709-F991-409D-A722-5FC12106FF85}.Release|x86.ActiveCfg = Release|x86
+		{7774D709-F991-409D-A722-5FC12106FF85}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF655C2-18DD-4EBF-94A1-2238400A8AB2}
+	EndGlobalSection
+EndGlobal

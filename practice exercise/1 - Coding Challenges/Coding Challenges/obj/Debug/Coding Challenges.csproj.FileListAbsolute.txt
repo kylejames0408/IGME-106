@@ -1,0 +1,6 @@
+Z:\IGMProfile\IGME106\Coding Challenges\obj\Debug\Coding Challenges.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME106\Coding Challenges\bin\Debug\Coding Challenges.exe.config
+Z:\IGMProfile\IGME106\Coding Challenges\bin\Debug\Coding Challenges.exe
+Z:\IGMProfile\IGME106\Coding Challenges\bin\Debug\Coding Challenges.pdb
+Z:\IGMProfile\IGME106\Coding Challenges\obj\Debug\Coding Challenges.exe
+Z:\IGMProfile\IGME106\Coding Challenges\obj\Debug\Coding Challenges.pdb

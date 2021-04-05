@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/C#/MonoGame Basics/MonoGame Basics/Content/arial12.spritefont","E:/C#/MonoGame Basics/MonoGame Basics/Content/bin/Windows/Content/arial12.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.3280809
+"E:/C#/MonoGame Basics/MonoGame Basics/Content/Blue Poker Chip.png","E:/C#/MonoGame Basics/MonoGame Basics/Content/bin/Windows/Content/Blue Poker Chip.xnb","TextureProcessor","Texture2DContent",18465,40085,0.1555838
+"E:/C#/MonoGame Basics/MonoGame Basics/Content/Courier Six.png","E:/C#/MonoGame Basics/MonoGame Basics/Content/bin/Windows/Content/Courier Six.xnb","TextureProcessor","Texture2DContent",146935,1000085,0.1954968
+"E:/C#/MonoGame Basics/MonoGame Basics/Content/Yellow Poker Chip.png","E:/C#/MonoGame Basics/MonoGame Basics/Content/bin/Windows/Content/Yellow Poker Chip.xnb","TextureProcessor","Texture2DContent",17376,40085,0.0533749

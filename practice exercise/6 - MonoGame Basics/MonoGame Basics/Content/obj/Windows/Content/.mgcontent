@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/C#/MonoGame Basics/MonoGame Basics/Content/arial12.spritefont</File>
+    <File>E:/C#/MonoGame Basics/MonoGame Basics/Content/Blue Poker Chip.png</File>
+    <File>E:/C#/MonoGame Basics/MonoGame Basics/Content/Courier Six.png</File>
+    <File>E:/C#/MonoGame Basics/MonoGame Basics/Content/Yellow Poker Chip.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

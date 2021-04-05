@@ -1,0 +1,24 @@
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\Content\Bethesda Logo.xnb
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\Recursion.exe
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\Recursion.pdb
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Z:\IGMProfile\Desktop\Recursion\obj\x86\Debug\Recursion.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\Recursion\obj\x86\Debug\Recursion.csproj.CopyComplete
+Z:\IGMProfile\Desktop\Recursion\obj\x86\Debug\Recursion.exe
+Z:\IGMProfile\Desktop\Recursion\obj\x86\Debug\Recursion.pdb
+Z:\IGMProfile\Desktop\Recursion\bin\Windows\x86\Debug\Content\impact24.xnb

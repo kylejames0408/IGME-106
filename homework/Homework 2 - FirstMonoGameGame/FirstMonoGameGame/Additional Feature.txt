@@ -1,0 +1,8 @@
+Kyle James
+2/9/2020
+
+My additional feature is the inclusion of a basic enemy that moves from left to right across
+the screen. The Enemy class inherits from the GameObject class and upon collision with a
+Player object will end the game. The enemy cannot spawn in the Player's spawn path. The
+number of Enemies correlates with the level that the Player is on, slowly making the game
+more difficult.

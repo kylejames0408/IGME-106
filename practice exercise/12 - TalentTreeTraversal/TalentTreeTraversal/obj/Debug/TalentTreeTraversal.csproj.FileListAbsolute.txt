@@ -1,0 +1,6 @@
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\bin\Debug\TalentTreeTraversal.exe.config
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\bin\Debug\TalentTreeTraversal.exe
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\bin\Debug\TalentTreeTraversal.pdb
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\obj\Debug\TalentTreeTraversal.csprojAssemblyReference.cache
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\obj\Debug\TalentTreeTraversal.exe
+C:\Users\kylej\OneDrive\Desktop\talent-tree-traversal\TalentTreeTraversal\obj\Debug\TalentTreeTraversal.pdb

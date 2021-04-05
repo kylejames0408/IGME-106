@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Z:/IGMProfile/Desktop/Recursion/Content/Bethesda Logo.png","Z:/IGMProfile/Desktop/Recursion/Content/bin/Windows/Content/Bethesda Logo.xnb","TextureProcessor","Texture2DContent",247223,8344085,0.4506868
+"Z:/IGMProfile/Desktop/Recursion/Content/impact24.spritefont","Z:/IGMProfile/Desktop/Recursion/Content/bin/Windows/Content/impact24.xnb","FontDescriptionProcessor","SpriteFontContent",2009,70673,0.3097732

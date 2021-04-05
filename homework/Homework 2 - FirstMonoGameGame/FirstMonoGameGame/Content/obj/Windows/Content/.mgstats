@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/C#/first-monogame-game/FirstMonoGameGame/Content/FusionCell.png","E:/C#/first-monogame-game/FirstMonoGameGame/Content/bin/Windows/Content/FusionCell.xnb","TextureProcessor","Texture2DContent",3793,10085,0.4143301
+"E:/C#/first-monogame-game/FirstMonoGameGame/Content/impact25.spritefont","E:/C#/first-monogame-game/FirstMonoGameGame/Content/bin/Windows/Content/impact25.xnb","FontDescriptionProcessor","SpriteFontContent",2009,70673,0.3231361
+"E:/C#/first-monogame-game/FirstMonoGameGame/Content/impact50.spritefont","E:/C#/first-monogame-game/FirstMonoGameGame/Content/bin/Windows/Content/impact50.xnb","FontDescriptionProcessor","SpriteFontContent",2009,267281,0.3201431
+"E:/C#/first-monogame-game/FirstMonoGameGame/Content/MoleRat.png","E:/C#/first-monogame-game/FirstMonoGameGame/Content/bin/Windows/Content/MoleRat.xnb","TextureProcessor","Texture2DContent",4639,8149,0.557509
+"E:/C#/first-monogame-game/FirstMonoGameGame/Content/MrHandy.png","E:/C#/first-monogame-game/FirstMonoGameGame/Content/bin/Windows/Content/MrHandy.xnb","TextureProcessor","Texture2DContent",4386,8885,0.1495834

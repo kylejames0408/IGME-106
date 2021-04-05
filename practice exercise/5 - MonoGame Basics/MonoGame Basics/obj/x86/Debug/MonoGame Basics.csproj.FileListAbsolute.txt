@@ -1,0 +1,23 @@
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\MonoGame Basics.exe
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\MonoGame Basics.pdb
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\C#\MonoGame Basics\obj\x86\Debug\MonoGame Basics.csprojAssemblyReference.cache
+E:\C#\MonoGame Basics\obj\x86\Debug\MonoGame Basics.csproj.CopyComplete
+E:\C#\MonoGame Basics\obj\x86\Debug\MonoGame Basics.exe
+E:\C#\MonoGame Basics\obj\x86\Debug\MonoGame Basics.pdb
+E:\C#\MonoGame Basics\bin\Windows\x86\Debug\Content\Courier Six.xnb

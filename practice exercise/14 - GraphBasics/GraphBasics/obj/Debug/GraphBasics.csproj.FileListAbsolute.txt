@@ -1,0 +1,7 @@
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\bin\Debug\GraphBasics.exe.config
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\bin\Debug\GraphBasics.exe
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\bin\Debug\GraphBasics.pdb
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\obj\Debug\GraphBasics.csprojAssemblyReference.cache
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\obj\Debug\GraphBasics.csproj.CoreCompileInputs.cache
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\obj\Debug\GraphBasics.exe
+C:\Users\kylej\OneDrive\Desktop\GraphBasics\obj\Debug\GraphBasics.pdb
