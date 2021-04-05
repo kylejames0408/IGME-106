@@ -1,0 +1,10 @@
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe.config
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csprojAssemblyReference.cache
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Form1.resources
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.cache
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.CoreCompileInputs.cache
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+C:\Users\kylej\OneDrive\Desktop\game\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb

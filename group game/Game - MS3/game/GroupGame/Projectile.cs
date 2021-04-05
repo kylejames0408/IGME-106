@@ -1,0 +1,95 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GroupGame
+{
+    class Projectile : GameObject
+    {
+        //fields
+        private int speed;
+        private double angle;
+        double x;
+        double y;
+        private int damage;
+        private bool circleBox;
+
+        //properties
+        public int Speed
+        {
+            get { return speed; }
+            set { speed = value; }
+        }
+
+        public double Angle
+        {
+            get { return angle; }
+            set { angle = value % 2*Math.PI; }
+        }
+
+        public int Damage
+        {
+            get { return damage; }
+            set { damage = value; }
+        }
+
+        public bool CircleBox
+        {
+            get { return circleBox; }
+        }
+
+        //constructors
+
+        //constructor to create an ammotype
+        public Projectile(Point size, int speed, Texture2D sprite) : base(new Rectangle(new Point(0,0), size), sprite)
+        {
+            this.speed = speed;
+            this.angle = 0;
+            this.damage = 0;
+            x = position.X;
+            y = position.Y;
+        }
+
+        //constructor for projectile fired by weapon
+        public Projectile(double angle, Rectangle position, int speed, int damage, Texture2D sprite) : base(position, sprite)
+        {
+            this.speed = speed;
+            this.angle = angle;
+            this.damage = damage;
+            x = position.X;
+            y = position.Y;
+        }
+
+        /// <summary>
+        /// moves the projectile speed distance at the given angle
+        /// </summary>
+        public override void Update()
+        {
+            x += (Math.Cos(angle) * speed);
+            y += (Math.Sin(angle) * speed);
+            position.X = (int)x;
+            position.Y = (int)y;
+        }
+
+        /// <summary>
+        /// allows the projectiles to move in 360 degrees
+        /// </summary>
+        /// <param name="sb"></param>
+        public override void Draw(SpriteBatch sb)
+        {
+            sb.Draw(sprite, new Rectangle((int)(x)+position.Width/2, (int)(y)+position.Height/2, position.Width, position.Height), null, Color.White, (float)angle, new Vector2(position.Width / 2, position.Height / 2), SpriteEffects.None, 1);
+        }
+
+        /// <summary>
+        /// Destroys the projectile on collision with a character
+        /// </summary>
+        public void Destroy()
+        {
+            this.Damage = -1;
+        }
+    }
+}

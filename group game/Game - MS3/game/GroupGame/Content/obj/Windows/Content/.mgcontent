@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/arrow.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/bow.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Buttons.spritefont</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/circle.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/File.spritefont</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/floorTest.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Heading.spritefont</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/key.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/mouseCursor.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/playerTest.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/spell.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/square.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/sword.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/Title.spritefont</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/wallTest.png</File>
+    <File>C:/Users/kylej/OneDrive/Desktop/game/GroupGame/Content/wand.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Stats.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

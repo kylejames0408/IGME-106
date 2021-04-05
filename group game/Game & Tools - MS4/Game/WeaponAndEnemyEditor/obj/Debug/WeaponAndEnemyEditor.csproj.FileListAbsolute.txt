@@ -1,0 +1,10 @@
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\bin\Debug\WeaponAndEnemyEditor.exe.config
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\bin\Debug\WeaponAndEnemyEditor.exe
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\bin\Debug\WeaponAndEnemyEditor.pdb
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.csprojAssemblyReference.cache
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.MainForm.resources
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.Properties.Resources.resources
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.csproj.GenerateResource.cache
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.csproj.CoreCompileInputs.cache
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.exe
+C:\Users\kylej\OneDrive\Desktop\Game\WeaponAndEnemyEditor\obj\Debug\WeaponAndEnemyEditor.pdb
